@@ -1,0 +1,39 @@
+﻿  Source.cpp
+c:\grafika\grafika\grafika\map.h(41): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\grafika\grafika\grafika\source.cpp(28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\grafika\grafika\grafika\source.cpp(68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\grafika\grafika\grafika\source.cpp(73): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\grafika\grafika\grafika\source.cpp(74): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\grafika\grafika\grafika\source.cpp(78): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\grafika\grafika\grafika\source.cpp(79): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\grafika\grafika\grafika\source.cpp(80): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\grafika\grafika\grafika\source.cpp(81): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\grafika\grafika\grafika\source.cpp(92): warning C4553: '==': result of expression not used; did you intend '='?
+c:\grafika\grafika\grafika\source.cpp(98): warning C4551: function call missing argument list
+c:\grafika\grafika\grafika\source.cpp(100): warning C4305: '=': truncation from 'double' to 'float'
+c:\grafika\grafika\grafika\source.cpp(103): warning C4305: '=': truncation from 'double' to 'float'
+c:\grafika\grafika\grafika\source.cpp(107): warning C4305: '=': truncation from 'double' to 'float'
+c:\grafika\grafika\grafika\source.cpp(122): warning C4305: '=': truncation from 'double' to 'float'
+c:\grafika\grafika\grafika\source.cpp(128): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\grafika\grafika\grafika\source.cpp(129): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\grafika\grafika\grafika\source.cpp(133): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\grafika\grafika\grafika\source.cpp(134): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\grafika\grafika\grafika\source.cpp(135): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\grafika\grafika\grafika\source.cpp(135): warning C4305: '=': truncation from 'double' to 'float'
+c:\grafika\grafika\grafika\source.cpp(136): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\grafika\grafika\grafika\source.cpp(136): warning C4305: '=': truncation from 'double' to 'float'
+c:\grafika\grafika\grafika\source.cpp(186): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+c:\grafika\grafika\grafika\source.cpp(211): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GrafiKA.vcxproj -> C:\Grafika\GrafiKA\x64\Debug\GrafiKA.exe
+  C:\Grafika\GrafiKA\SFML\bin\openal32.dll -> C:\Grafika\GrafiKA\x64\Debug\openal32.dll
+  Скопировано файлов: 1.
+  C:\Grafika\GrafiKA\SFML\bin\sfml-audio-d-2.dll -> C:\Grafika\GrafiKA\x64\Debug\sfml-audio-d-2.dll
+  Скопировано файлов: 1.
+  C:\Grafika\GrafiKA\SFML\bin\sfml-graphics-d-2.dll -> C:\Grafika\GrafiKA\x64\Debug\sfml-graphics-d-2.dll
+  Скопировано файлов: 1.
+  C:\Grafika\GrafiKA\SFML\bin\sfml-network-d-2.dll -> C:\Grafika\GrafiKA\x64\Debug\sfml-network-d-2.dll
+  Скопировано файлов: 1.
+  C:\Grafika\GrafiKA\SFML\bin\sfml-system-d-2.dll -> C:\Grafika\GrafiKA\x64\Debug\sfml-system-d-2.dll
+  Скопировано файлов: 1.
+  C:\Grafika\GrafiKA\SFML\bin\sfml-window-d-2.dll -> C:\Grafika\GrafiKA\x64\Debug\sfml-window-d-2.dll
+  Скопировано файлов: 1.
